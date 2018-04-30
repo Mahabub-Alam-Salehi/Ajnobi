@@ -16,7 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Hallfinder"></activity>
+        <activity android:name=".Hallfinder" />
+        <activity android:name=".User_info" />
+        <activity android:name=".Joma_khoroch_Activity" />
+        <activity android:name=".Joma_Activity" />
+        <activity android:name=".ListAdapter_Activity" />
+        <activity android:name=".View_list_Activity"></activity>
     </application>
 
 </manifest>

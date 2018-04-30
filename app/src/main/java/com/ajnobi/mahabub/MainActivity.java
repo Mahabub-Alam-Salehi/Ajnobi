@@ -270,6 +270,7 @@ public class MainActivity extends AppCompatActivity  implements
                             updateUI(STATE_SIGNIN_FAILED);
                             // [END_EXCLUDE]
                         }
+
                     }
                 });
     }
@@ -378,6 +379,9 @@ public class MainActivity extends AppCompatActivity  implements
             finish();
 
         }
+
+
+
     }
 
     private boolean validatePhoneNumber() {
